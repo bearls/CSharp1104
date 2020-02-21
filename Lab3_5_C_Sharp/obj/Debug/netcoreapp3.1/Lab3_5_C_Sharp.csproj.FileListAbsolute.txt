@@ -1,0 +1,11 @@
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\bin\Debug\netcoreapp3.1\Lab3_5_C_Sharp.exe
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\bin\Debug\netcoreapp3.1\Lab3_5_C_Sharp.deps.json
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\bin\Debug\netcoreapp3.1\Lab3_5_C_Sharp.runtimeconfig.json
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\bin\Debug\netcoreapp3.1\Lab3_5_C_Sharp.runtimeconfig.dev.json
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\bin\Debug\netcoreapp3.1\Lab3_5_C_Sharp.dll
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\bin\Debug\netcoreapp3.1\Lab3_5_C_Sharp.pdb
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\obj\Debug\netcoreapp3.1\Lab3_5_C_Sharp.csprojAssemblyReference.cache
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\obj\Debug\netcoreapp3.1\Lab3_5_C_Sharp.AssemblyInfoInputs.cache
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\obj\Debug\netcoreapp3.1\Lab3_5_C_Sharp.AssemblyInfo.cs
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\obj\Debug\netcoreapp3.1\Lab3_5_C_Sharp.dll
+D:\Users\bearls\source\repos\Lab3_5_C_Sharp\Lab3_5_C_Sharp\obj\Debug\netcoreapp3.1\Lab3_5_C_Sharp.pdb
